@@ -88811,7 +88811,7 @@ l.I$=0
 case 1:return A.B(q,r)}})
 return A.C($async$Ar,r)},
 K(a){var s,r,q,p,o,n=this,m=null,l=A.aPA(m,m,new A.xr("assets/profile.png",m,m)),k=A.a_(a).ok.e,j=t.E
-k=A.c([A.m7(A.mb(A.c([new A.Jb(new A.Jr(new A.zo(l,120,120,B.B2,m),m),B.DG,62,m),B.id,A.cX("Malatesh",m,m,m,k==null?m:k.amC(B.ck),m,m),B.zo,A.cX("Flutter Developer - UI Enthusiast",m,m,m,A.a_(a).ok.y,m,m)],j),B.bm,B.aI,B.cn),m,m),B.fg,A.cX("About Me",m,m,m,B.fm,m,m),B.bQ,B.UX,B.fg,A.cX("Projects",m,m,m,B.fm,m,m),B.bQ],j)
+k=A.c([A.m7(A.mb(A.c([new A.Jb(new A.Jr(new A.zo(l,120,120,B.B2,m),m),B.DG,62,m),B.id,A.cX("Malatesh",m,m,m,k==null?m:k.amC(B.ck),m,m),B.zo,A.cX("Flutter Developer - UI Enthusiast, Mobile App Developer, and Tech Blogger",m,m,m,A.a_(a).ok.y,m,m)],j),B.bm,B.aI,B.cn),m,m),B.fg,A.cX("About Me",m,m,m,B.fm,m,m),B.bQ,B.UX,B.fg,A.cX("Projects",m,m,m,B.fm,m,m),B.bQ],j)
 l=n.d
 B.b.N(k,new A.a4(l,new A.aq8(n),A.Z(l).i("a4<1,e>")))
 k.push(B.fg)
